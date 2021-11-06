@@ -1,0 +1,47 @@
+.Message {
+    color: greenyellow;
+    column-rule-color: #bbffbb;
+}
+
+.message {
+    display: flex;
+    align-items: flex-end;
+    margin: 10px;
+
+}
+.avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.content {
+    padding: 10px;
+    border-radius: 5px 5px 5px 0;
+    /*background-color: rgba(255, 255, 255, 0.3);*/
+    background-color: darkslategrey;
+}
+
+.angel {
+    height: 15px;
+    width: 15px;
+    background: radial-gradient(circle at 0 0, rgba(0, 0, 0, 0) 15px,  darkslategrey 0)
+
+
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+    color: #bbffbb;
+}
+.text {
+    max-width: 300px;
+    min-width: 150px;
+    word-wrap: break-word;
+}
+.time {
+    display: flex;
+    justify-content: flex-end;
+
+    color: cornflowerblue;
+}
