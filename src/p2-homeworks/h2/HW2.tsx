@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import Affairs from './Affairs'
 
 // types
-export type AffairPriorityType =  'high' | 'low' | 'middle'// need to fix any
+export type AffairPriorityType = 'high' | 'low' | 'middle'// need to fix any
 export type AffairType = {
     _id: number
     name: string
@@ -22,11 +22,11 @@ const defaultAffairs: Array<AffairType> = [ // need to fix any
 // pure helper functions
 export const filterAffairs = (affairs: AffairType[], filter: FilterType): AffairType[] => { // need to fix any
     if (filter === 'all') return affairs
-    else return  affairs.filter(a => a.priority === filter)// need to fix
+    else return affairs.filter(a => a.priority === filter)// need to fix
 }
 export const deleteAffair = (affairs: Array<AffairType>, _id: number): AffairType[] => { // need to fix any
 
-    return  affairs.filter(a => a._id !== _id)// need to fix debugger
+    return affairs.filter(a => a._id !== _id)// need to fix debugger
 }
 
 function HW2() {
@@ -46,7 +46,7 @@ function HW2() {
                 data={filteredAffairs}
                 setFilter={setFilter}
                 deleteAffairCallback={deleteAffairCallback}
-                filter = {filter}
+                filter={filter}
             />
 
             <hr/>
