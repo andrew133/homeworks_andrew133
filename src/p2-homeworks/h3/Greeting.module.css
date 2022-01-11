@@ -4,24 +4,28 @@
 }
 .error{
     color: red;
-    height: 20px;
+    height: 21px;
     margin-left: 10px;
 }
 .input{
     margin: 10px;
     background: #083300;
     color: #99ff99;
+    height: 26px;
 }
-.input:focus{
-    outline: none;
-    border: #99ff99; solid: 2px;
+.input:focus {
+    /*outline: none;*/
+    border: navajowhite;
+
+
 }
-.error.input{
+.errorInput{
     margin: 10px;
     background: #083300;
     color: #99ff99;
-    border: 2px; solid: red;
+    border: 20px;
     outline: none;
+    height: 26px;
 }
 .button{
     margin: 10px;
@@ -40,5 +44,5 @@
     color: #005500;
 }
 .count{
-    margin: 10px;
+    margin: 30px;
 }
