@@ -44,5 +44,7 @@
     color: #005500;
 }
 .count{
-    margin: 30px;
+    margin: 10px;
+    width: 60px;
+    outline: none;
 }
