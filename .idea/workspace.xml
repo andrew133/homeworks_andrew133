@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6476eb7b-8057-4f49-8bab-48f91be834d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h1/AlternativeMessage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/AlternativeMessage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h1/HW1.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/HW1.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h3/Greeting.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/Greeting.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +170,8 @@
       <workItem from="1644232748186" duration="345000" />
       <workItem from="1644234750838" duration="857000" />
       <workItem from="1645451259086" duration="1688000" />
-      <workItem from="1645622041744" duration="1187000" />
+      <workItem from="1645622041744" duration="2403000" />
+      <workItem from="1645728744755" duration="39000" />
     </task>
     <servers />
   </component>
